@@ -1,5 +1,5 @@
-# Music-Recommendation-System
-Expert System Project
+# VIBESTREAM Music-Recommendation-System
+
 
 System Requirements:
 --------------------
